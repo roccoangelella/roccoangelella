@@ -1,15 +1,10 @@
-AI Engineer in the making!
+Data Science MSc student @PoliTO 📚
 
-Data Science MSc student @PoliTO
-CoFounder and AI Engineer @JourMe
+CoFounder and AI Engineer @JourMe✈️ (htps://jourme.app)
 
-Currently deep diving in Transformers and Reinforcement Learning
-
-
-Let's connect!
+Currently deep diving Transformers and Reinforcement Learning
 
 https://www.linkedin.com/in/rocco-angelella/
 
-Sometimes i blog too!
-
-www.roccoangelella.com
+Every now and then I blog ! 
+  www.roccoangelella.com
