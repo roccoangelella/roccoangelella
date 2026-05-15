@@ -5,7 +5,11 @@ CoFounder and AI Engineer @JourMe
 
 Currently deep diving in Transformers and Reinforcement Learning
 
+
+Let's connect!
+
 https://www.linkedin.com/in/rocco-angelella/
 
-Sometimes i blog!
+Sometimes i blog too!
+
 www.roccoangelella.com
